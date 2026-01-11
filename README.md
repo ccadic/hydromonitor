@@ -10,7 +10,7 @@ Hydro Monitor C6: ESP32-C6 + 1.47" TFT + DHT22. Live temp/humidity on-screen + W
 
 Hydro Monitor C6 — Temperature & Humidity Monitor for Hydroponics / Microgreens (ESP32-C6 + 1.47" TFT)
 
-Want to track your grow-room microclimate without cloud apps, subscriptions, or sketchy IoT platforms? This compact PCB turns an ESP32-C6 + 1.47" TFT and a simple DHT11 sensor into a clean, always-on monitoring station with a built-in Wi-Fi web API.
+Want to track your grow-room microclimate without cloud apps, subscriptions, or sketchy IoT platforms? This compact PCB turns an ESP32-C6 + 1.47" TFT and a simple DHT22 sensor into a clean, always-on monitoring station with a built-in Wi-Fi web API.
 
 Instant readout on the TFT screen
 Query remotely over HTTP (JSON or raw numeric value)
